@@ -1,0 +1,205 @@
+@font-face {
+    font-family: "Pokemon";
+    src: url('../projetx/Pokemon-Classic.ttf');
+}
+
+
+.contenaire{
+    height: 400px;
+    width: 600px;
+    display:flex;
+    background: url(../projetx/images/back.png);
+}
+.contenaire1{
+    
+    height: 400px;
+    width: 300px;
+}
+.jeuncont1{
+    height: 200px;
+    width: 300px;
+    
+}
+.jeuncont2{
+    height: 200px;
+    width: 300px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    
+}
+.contenaire2{
+    float:right;
+    
+    height: 400px;
+    width: 300px;
+}
+.jeuncont3{
+    height: 200px;
+    width: 300px;
+    padding-top: 30px;
+    padding-left: 100px;
+
+}
+.jeuncont4{
+    height: 200px;
+    width: 300px;
+   
+}
+.groupe{
+    height: 200px;
+    width: 600px;
+    border: 1px solid rgb(207, 204, 200);
+    display:flex;
+    font-family: Pokemon;
+   
+    
+}
+.jeuncont9{
+    color: aliceblue;
+    margin: 5px;
+    height:190px;
+    width: 200px;
+    border: 1px solid black;
+    padding-left: 25px;
+    padding-top: 70px;
+    border-radius: 10px;
+    background-color: rgb(153, 4, 4);
+    
+}
+.jeuncont8{
+    margin: 5px;
+    height: 190px;
+    width: 400px;
+    
+    display:flex;
+    justify-content: space-around;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(207, 204, 200);
+}
+.att{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 5px;
+    background: linear-gradient(#eb3939,#eb3939,#894142);
+}
+.att:hover{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 5px;
+    background: linear-gradient(#894142,#eb3939,#eb3939);
+}
+
+.poke{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(#5ab22a,#5ab22a,#4c7440);
+}
+.poke:hover{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(#4c7440,#5ab22a,#5ab22a);
+}
+.sac{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(#e39a27,#e39a27,#8c673d);
+}
+.sac:hover{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(#8c673d,#e39a27,#e39a27);
+}
+.fuite{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background:linear-gradient(#2693cb,#2693cb,#405a75);
+}
+.fuite:hover{
+    color: aliceblue;
+    text-align: center;
+    height: 85px;
+    width: 180px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background:linear-gradient(#405a75,#2693cb,#2693cb);
+}
+.nompoke{
+    
+    height: 50px;
+    width: 270px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: rgb(207, 204, 200);
+    font-family: Pokemon;
+    
+}
+.nompoke2{
+    margin-top: 12px;
+    height: 50px;
+    width: 270px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: rgb(207, 204, 200);
+    font-family: Pokemon;
+}   
+.message{
+    height: 120px;
+    width: 600px;
+    padding-top:10px;
+    border-style: double;
+    font-size: 20px;
+    text-align: center;
+    font-family: Pokemon;
+      
+}
+
+.encoreplus{
+    height: 520px;
+    width: 600px;
+    
+}
+body{
+    padding-left: 30%;
+    padding-top:20px;
+}
+
+
